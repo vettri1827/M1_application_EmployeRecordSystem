@@ -16,9 +16,9 @@
 
 
 
-# Stepin-Employee-Record-System
 
-## Title : Employee Information Management System
+
+## Title : Employee Record System
 
 The mini-project “Employee Record System Project in C” is a console application using the C programming language. This project compiled in Code Blocks with the GCC compiler. In this console application, you can do basic Employee Record tasks like adding the employee info, view the added employee, search the employees.
 This application based on file handling in C, where I have used a file-related function like fopen, fread, fwrite, ..etc. Good thing is that “Employee Record System Project” is password-protected, so only authorized persons able to login to this application.
