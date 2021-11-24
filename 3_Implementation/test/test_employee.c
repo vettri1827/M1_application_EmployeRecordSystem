@@ -1,6 +1,6 @@
 /**
  * @file tset_employee.c
- * @author raaga.vardhini@ltts.com
+ * @author vettri.selvam@ltts.com
  * @brief 
  * @version 0.1
  * @date 2021-09-08
