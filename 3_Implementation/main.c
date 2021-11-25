@@ -1,10 +1,10 @@
 /**
  * @file main.c
- * @author your name (you@domain.com)
+ * @author vettri.selvam@ltts.com
  * @brief 
  * @version 0.11
  *
- * @date 2021-09-06
+ * @date 2021-11-21
  * 
  * @copyright Copyright (c) 2021
  * 
