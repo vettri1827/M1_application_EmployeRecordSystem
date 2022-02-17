@@ -13,7 +13,7 @@ High level and and Low level Requirements
 |HR06 |The Application should allow user to exit from application.  | Textual |	IMPLEMENTED  |
 
 ## LOW LEVEL REQUIREMENTS
-| ID |DESCRPTION | HLR ID | STATUS |
+| ID |DESCRPTION | LLR ID | STATUS |
 | ------ | ------ | ------| ------|
 | HR01 | The application will ask user to choose between 1 to 5 |HR01  |	IMPLEMENTED  |
 | |Choices: | | |
@@ -22,8 +22,8 @@ High level and and Low level Requirements
 | |3. Modify Record | | |
 | |4. Delete Record | | |
 | |	5. Exit | | |
-| HR02 |	The application will ask user to enter info such as Enter name, Enter Salary, Enter Age.  | HR02 | 	IMPLEMENTED |
-| HR03 |The application will show all details of employees. | HR03 | 	IMPLEMENTED |
-|HR04 | The application will ask user enter name (for modifying). |HR04  |	IMPLEMENTED  |
-|HR05 | 	The application will ask user to enter name (for deleting). |HR05 |	IMPLEMENTED  |
-|HR06 |The user can exit from application by choosing 5.  | HR06 |	IMPLEMENTED  |
+| LR02 |	The application will ask user to enter info such as Enter name, Enter Salary, Enter Age.  | HR02 | 	IMPLEMENTED |
+| LR03 |The application will show all details of employees. | HR03 | 	IMPLEMENTED |
+|LR04 | The application will ask user enter name (for modifying). |HR04  |	IMPLEMENTED  |
+|LR05 | 	The application will ask user to enter name (for deleting). |HR05 |	IMPLEMENTED  |
+|LR06 |The user can exit from application by choosing 5.  | HR06 |	IMPLEMENTED  |
