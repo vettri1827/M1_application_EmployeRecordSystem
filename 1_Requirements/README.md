@@ -15,15 +15,15 @@ High level and and Low level Requirements
 ## LOW LEVEL REQUIREMENTS
 | ID |DESCRPTION | LLR ID | STATUS |
 | ------ | ------ | ------| ------|
-| HR01 | The application will ask user to choose between 1 to 5 |HR01  |	IMPLEMENTED  |
+| LR01 | The application will ask user to choose between 1 to 5 |LR01  |	IMPLEMENTED  |
 | |Choices: | | |
 | |1.Add Record | | |
 | |2. List Record | | |
 | |3. Modify Record | | |
 | |4. Delete Record | | |
 | |	5. Exit | | |
-| LR02 |	The application will ask user to enter info such as Enter name, Enter Salary, Enter Age.  | HR02 | 	IMPLEMENTED |
-| LR03 |The application will show all details of employees. | HR03 | 	IMPLEMENTED |
-|LR04 | The application will ask user enter name (for modifying). |HR04  |	IMPLEMENTED  |
-|LR05 | 	The application will ask user to enter name (for deleting). |HR05 |	IMPLEMENTED  |
-|LR06 |The user can exit from application by choosing 5.  | HR06 |	IMPLEMENTED  |
+| LR02 |	The application will ask user to enter info such as Enter name, Enter Salary, Enter Age.  | LR02 | 	IMPLEMENTED |
+| LR03 |The application will show all details of employees. | LR03 | 	IMPLEMENTED |
+|LR04 | The application will ask user enter name (for modifying). |LR04  |	IMPLEMENTED  |
+|LR05 | 	The application will ask user to enter name (for deleting). |LR05 |	IMPLEMENTED  |
+|LR06 |The user can exit from application by choosing 5.  | LR06 |	IMPLEMENTED  |
